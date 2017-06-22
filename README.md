@@ -1,1 +1,1 @@
-# go-mk-ms01-swagger
+Swagger example from DevConf
